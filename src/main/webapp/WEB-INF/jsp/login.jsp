@@ -37,8 +37,8 @@
 
 
                 <div class="mb-3 mt-3">
-                    <label for="email" class="form-label">Organization Code:</label>
-                    <input type="number" class="form-control" id="organizationCode" placeholder="Enter Organization Code" name="organizationCode">
+                    <label for="email" class="form-label">User ID:</label>
+                    <input type="number" class="form-control" id="userId" placeholder="Enter User Id Code" name="userId">
                 </div>
 
                 <div class="mb-3 mt-3">

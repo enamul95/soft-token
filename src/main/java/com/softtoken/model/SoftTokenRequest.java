@@ -9,6 +9,6 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 public class SoftTokenRequest {
     private String email;
-    private String organizationCode;
+    private String userId;
     private String tokenType;
 }
